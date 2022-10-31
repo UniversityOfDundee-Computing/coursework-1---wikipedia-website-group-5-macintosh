@@ -1,0 +1,19 @@
+img {
+    width: 400px;
+    height: auto;
+}
+
+body {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+hr {
+    margin: 9px;
+    padding: 9px;
+}
+
+
