@@ -5,6 +5,7 @@ img {
 
 body {
     margin-bottom: 20px;
+    background-color: azure;
 }
 
 h1 {
@@ -16,4 +17,7 @@ hr {
     padding: 9px;
 }
 
+h1 {
+    color: darkslategrey;
+}
 
