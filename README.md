@@ -1,10 +1,11 @@
 # AC11002 - Coursework 1
-You should use this repository for your first group coursework in AC11002 / AC51046
-
+This repositoy includes all needed files for the running of the webpage showing the main aspects of the Macintosh Classic
 ## Group Members
 Edward Foster,
-ali Ammani,
+Ali Ammani,
 Virag Szemann
 
 ## Group Website
 Alter this section to contain a link to your groups website working on github pages and also a link to the wikipedia page
+Guthub Page: 
+Wkipedia Page: https://en.wikipedia.org/wiki/Macintosh_Classic
