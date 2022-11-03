@@ -3,7 +3,7 @@ This repositoy includes all needed files for the running of the webpage showing 
 ## Group Members
 Edward Foster,
 Ali Ammani,
-Virag Szemann
+Virag Szemann,
 Rickie Kumar
 
 ## Group Website
