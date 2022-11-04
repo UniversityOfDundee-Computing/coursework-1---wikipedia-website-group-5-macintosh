@@ -7,6 +7,6 @@ Virag Szemann,
 Rickie Kumar
 
 ## Group Website
-Alter this section to contain a link to your groups website working on github pages and also a link to the wikipedia page
-Guthub Page: https://universityofdundee-computing.github.io/coursework-1---wikipedia-website-group-5-macintosh/home.html
+Alter this section to contain a link to your groups website working on github pages and also a link to the wikipedia page <br>
+Github Page: https://universityofdundee-computing.github.io/coursework-1---wikipedia-website-group-5-macintosh/home.html <br>
 Wkipedia Page: https://en.wikipedia.org/wiki/Macintosh_Classic
